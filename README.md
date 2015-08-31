@@ -3,6 +3,7 @@ PLEN - 3DModel for SolidWorks.
 Copyright (c) 2015.
 ---
 - [NAOHIRO HAYAISHI](http://earlystone.com/)
+- [Ryotaro HAMANO](https://github.com/yurueater)
 - [PLEN Project Company Ltd.](http://plen.jp)
 
 Build enviroment.
@@ -13,4 +14,3 @@ Build enviroment.
 License.
 ---
 This material is released under the Creative Commons BY 4.0.
-
